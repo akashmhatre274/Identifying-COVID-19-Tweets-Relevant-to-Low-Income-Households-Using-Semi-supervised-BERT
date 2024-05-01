@@ -7,6 +7,7 @@ Social media use boomed during the pandemic as people turned to it to connect an
 This project aimed to improve the identification of social media posts relevant to low-income communities during COVID-19. We built semi-supervised models to leverage both labeled and unlabeled data, achieving better performance than traditional supervised models using self-training abd knowledge distillation. These methods can contribute to developing real-time tools for monitoring the impact of future public health crises on vulnerable communities.
 
 Figure: This figure shows how self-training abd knowledge distillation in neural network takes place.
+![screenshot](iscram2023/fig_1.png)
 
 #### To learn more about it please read the report available in the GitHub repository.
 
